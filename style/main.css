@@ -1,0 +1,104 @@
+header {
+    height: 50px;
+    background-color: rgb(236, 105, 212);
+
+}
+
+#cell-1-1 {
+    background-color: yellow;
+}
+
+#cell-1-2 {
+    background-color: rgb(235, 64, 64);
+
+}
+
+#cell-1-3 {
+    background-color: rgb(236, 150, 37);
+}
+
+#cell-1-3 p {
+    background-color: rgb(134, 134, 26);
+}
+
+
+#cell-1-4 {
+    background-color: rgb(75, 240, 207);
+}
+
+#cell-2-1 {
+    background-color: rgb(151, 183, 35);
+}
+
+#cell-2-1 p {
+    background-color: rgb(86, 62, 182);
+}
+
+#cell-2-2 {
+    background-color: rgb(99, 70, 198);
+}
+
+#cell-2-3 {
+    background-color: rgb(169, 108, 204);
+}
+
+#cell-2-3 p {
+    background-color: rgb(222, 222, 211);
+}
+
+#cell-2-4 {
+    background-color: rgb(191, 189, 207);
+}
+
+#cell-3-1 {
+    background-color: rgb(215, 179, 132);
+}
+
+#cell-3-1 p {
+    background-color: rgb(150, 26, 144);
+}
+
+#cell-3-2 {
+    background-color: rgb(109, 90, 64);
+}
+
+#cell-3-3 {
+    background-color: rgb(62, 241, 22);
+}
+
+#cell-3-3 p {
+    background-color: rgb(232, 115, 199);
+}
+
+#cell-3-4 {
+    background-color: rgb(63, 121, 114);
+}
+
+#cell-4-1 {
+    background-color: rgb(64, 177, 226);
+}
+
+#cell-4-1 p {
+    background-color: rgb(106, 239, 208);
+}
+
+#cell-4-2 {
+    background-color: rgb(233, 55, 206);
+}
+
+#cell-4-3 {
+    background-color: rgb(71, 10, 56);
+}
+
+#cell-4-3 p {
+    background-color: rgb(211, 205, 244);
+}
+
+#cell-4-4 {
+    background-color: rgb(184, 30, 91);
+}
+
+footer {
+    height: 50px;
+    background-color: #f13957;
+}
